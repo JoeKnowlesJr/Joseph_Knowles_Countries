@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<meta charset="ISO-8859-1">
-		<title>Surface Area < 501 Pop > 100k</title>
+		<title>Surface Area under 501 Pop over 100k</title>
 	</head>
 	<body>
 		<table>
